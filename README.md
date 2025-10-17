@@ -7,7 +7,7 @@ A **web scraping tool built using Scrapy** to collect laptop prices and specific
 ## 🧠 Overview
 This project automatically scrapes laptop listings (name, specs, model, and price) from multiple local marketplaces and saves them into a CSV file (`laptops.csv`).
 
-Originally inspired by [tannu64/pakistan-laptop-scraper](https://github.com/tannu64/pakistan-laptop-scraper) under the MIT License — this version has been enhanced and extended by **Bilal Farooq Siddiqui**.
+Originally inspired by [tannu64/pakistan-laptop-scraper](https://github.com/tannu64/pakistan-laptop-scraper) under the MIT License — this version has been enhanced and extended by **Bilal Farooq**.
 
 ---
 
